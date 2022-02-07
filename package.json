@@ -1,0 +1,32 @@
+{
+  "name": "data-vis-project",
+  "version": "1.0.0",
+  "description": "playground for data vis experiments",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmacdonald1/data-vis-project.git"
+  },
+  "keywords": [
+    "data",
+    "visualization",
+    "node",
+    "express"
+  ],
+  "author": "mmacdonald1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmacdonald1/data-vis-project/issues"
+  },
+  "homepage": "https://github.com/mmacdonald1/data-vis-project#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
